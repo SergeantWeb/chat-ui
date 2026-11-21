@@ -1,5 +1,7 @@
 # @sergeantweb/chat-ui
 
+[Documentation](https://docs.sergeantweb.com/open-source/chat-ui) · [Previewing generated files](https://docs.sergeantweb.com/open-source/previewing-generated-files) · [npm](https://www.npmjs.com/package/@sergeantweb/chat-ui) · [Issues](https://github.com/SergeantWeb/chat-ui/issues)
+
 A ChatGPT-like chat UI for **Svelte 5**. One component, three small dependencies, no CSS framework.
 
 - Streaming Markdown (GFM tables, quotes, lists), sanitized with DOMPurify
@@ -24,6 +26,8 @@ A ChatGPT-like chat UI for **Svelte 5**. One component, three small dependencies
 MIT licensed.
 
 ## Install
+
+Full guide: [docs.sergeantweb.com/open-source/chat-ui](https://docs.sergeantweb.com/open-source/chat-ui).
 
 ```sh
 npm i @sergeantweb/chat-ui

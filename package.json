@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"type": "module",
 	"author": "SergeantWeb",
-	"homepage": "https://github.com/SergeantWeb/chat-ui#readme",
+	"homepage": "https://docs.sergeantweb.com/open-source/chat-ui",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/SergeantWeb/chat-ui.git"
